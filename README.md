@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mwakakelvin
-- 👀 I’m passionate about Data Science
+- :hearts: I’m passionate about Data Science
 - 🌱 Completed various courses including AWS machine learning foundations course with UDACITY
 - :books: I’m currently undertaking a Data Analyst course with UDACITY
 - 💞️ I’m looking to collaborate on Data Science projects
