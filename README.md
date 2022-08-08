@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mwakakelvin
+- 👋 Hi, I’m Kelvin Mwaka Muia
 - :hearts: I’m in love with Data Science
 - 🌱 Completed various courses including AWS machine learning foundations course with UDACITY
 - :books: I’m currently undertaking a Data Analyst course with UDACITY
