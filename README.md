@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kelvin Mwaka Muia
 - :hearts: I’m in love with Data Science
-- 🌱 Completed various courses including Data Analyst Nano-Degree and AWS machine learning foundations course with UDACITY
+- 🌱 I have completed specialization several courses on top of my Bachelors Degree in Actuarial Science, including the Data Analyst Nano-Degree and AWS machine learning foundations course offered by UDACITY
 - :hearts: I am passionate about Real Estate, Agriculture, climate change and disruptive tech 
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me; phone/whatsapp: +254728450288, email: kelvinmwaka@gmail.com
